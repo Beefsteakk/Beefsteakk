@@ -1,6 +1,9 @@
 👋 Hi, I'm Ayers, currently pursuing a joint degree in computer science with the Singapore Institute of Technology and the University of Glasgow
+
 🌐 I'm deeply interested in the potential of AI to transform industries and improve lives, and I'm actively studying machine learning techniques in my free time.
+
 👥 As a collaborative and committed learner, I'm open to internships that can provide practical experience in my fields of interest.
+
 📫 Feel free to reach out to me on Linkedin at www.linkedin.com/in/ayersfong
 
 ## Academic Projects
