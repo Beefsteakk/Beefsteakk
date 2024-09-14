@@ -10,9 +10,9 @@
 - **TicTacToe AI Program**: Engaged in a collaborative project to develop a TicTacToe game. My primary contribution was designing an intelligent AI bot capable of playing against human users. This bot was built using the minimax algorithm, which I enhanced with alpha-beta pruning to optimize performance and decision-making speed.
   
 ## Skills and Interests
-- Familiar with: C, Python
-- Learning: Java, Machine Learning
-- Interests: Machine Learning
+- Familiar with: C, Python, Java, MySQL
+- Learning: Machine Learning
+- Interests: Machine Learning, Artificial Intelligence, Web/Mobile Development
 - Soft skills: Collaborative, Eagerness to learn, Pereseverance, Leadership
 
 ---
